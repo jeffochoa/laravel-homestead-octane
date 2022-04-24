@@ -7,7 +7,7 @@ This implementation works for PHP 8.0
 Download this repository and copy each file to it's correspondent folder in Homestead:
 
 ```bash
-cp laravel-octane.sh /PATH-TO/Homestead/scripts/features/site-types/
+cp laravel-octane.sh /PATH-TO/Homestead/scripts/site-types/
 cp swoole.sh /PATH-TO/Homestead/scripts/features/
 ```
 
